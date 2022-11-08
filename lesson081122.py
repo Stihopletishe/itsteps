@@ -1,3 +1,3 @@
-print('Hello World!')
-a = '123'
-print(a)
+lst = []
+while True:
+    s = input('Введіть ім'я")
